@@ -1,0 +1,12 @@
+//export const LANDING = '/';
+export const SIGN_UP = '/signup';
+export const SIGN_IN = '/';
+export const HOME = '/home';
+export const ACCOUNT = '/account';
+export const ADMIN = '/admin';
+export const ADMIN_HOME = '/admin-home';
+export const REPORT_DETAILS = '/report-details';
+export const FEEDBACK_DETAILS = '/feedback-details';
+export const REPORT_DETAILS_USER = '/report-details-user';
+export const FEEDBACK_DETAILS_USER = '/feedback-details-user';
+//export const PASSWORD_FORGET = '/pw-forget';
